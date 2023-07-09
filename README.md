@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amin baluchi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-<img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" align="right" width="400" alt="coding">
+<img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" align="right" width="350" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amindb81&label=Profile%20views&color=0e75b6&style=flat" alt="amindb81" /> </p>
 
